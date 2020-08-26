@@ -20,7 +20,7 @@ class Navbar extends Component {
                 <nav className="white ">
                     <div className="nav-wrapper ">
                         {/* Full Words Logo */}
-                        <a href="/" className="brand-logo center hide-on-med-and-down KaiserText "><span className="KaiserText "> Nick </span></a>
+                        <a href="/" className="brand-logo center hide-on-med-and-down KaiserText "><span className="KaiserText "> Kaiser Permanente </span></a>
                         {/* Sidenav toggle */}
                         <a href="!#" data-target="Main-Menu" className="KaiserText sidenav-trigger right show-on-medium-and-up">
                             <i className="material-icons">menu</i>
